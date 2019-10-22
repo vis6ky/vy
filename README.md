@@ -1,2 +1,2 @@
 # vy
-Custom PHP framework for who want their own framework, Simple and Straight
+Custom PHP framework for those who want their own framework, Simple and Straight
